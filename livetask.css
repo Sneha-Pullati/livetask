@@ -1,0 +1,363 @@
+body{
+    text-align: center;
+    color: black;
+    margin: 20px;
+    font-family: arial verdana helvetica, arial;
+}
+.page1{
+    background: url('https://png.pngtree.com/thumb_back/fh260/background/20190223/ourmid/pngtree-black-minimalist-atmospheric-wooden-background-backgroundwooden-backgroundtree-texture-image_77053.jpg');
+   margin-bottom: 15%;
+   color: white;
+}
+.lfirst{
+    margin: 0px 0px 0px 60px;
+    padding: 10px;
+    display: flex;
+    color: white;
+
+}
+.join{
+    color: white;
+}
+.logog{
+    color:green;
+}
+nav ul{
+    margin-left: 400px;
+    list-style-type: none;
+}
+nav ul li{
+    float: left;
+    padding: 10px;
+}
+nav ul li a{
+    text-decoration: none;
+    color: white;
+}
+nav ul li a:hover{
+    color: green;
+}
+.view
+{
+    font-size: 55px;
+    padding: 50px;
+}
+.page1 button{
+    background: url('https://png.pngtree.com/thumb_back/fh260/background/20190223/ourmid/pngtree-black-minimalist-atmospheric-wooden-background-backgroundwooden-backgroundtree-texture-image_77053.jpg');
+    color: white;
+    padding: 10px;
+    margin: 20px;
+}
+.right{
+    filter: blur(10px);
+    padding: 10px;
+    margin: 10px;
+    margin-left: 30px;
+}
+.palestra{
+    margin-top: -100px;
+    margin-left: 100px;
+    color: black;
+    display: flex;
+    text-align: justify;
+}
+.left 
+{
+    padding: 10px;
+}
+.left h1 span{
+    color: rgb(47, 255, 127);
+
+}
+.left h3{
+    color: rgb(47, 255, 127);
+}
+.left button{
+    color:rgb(47, 255, 127);
+    background-color: white;
+    padding: 10px;
+}
+.head{
+    color: black;
+}
+.workouts {
+    text-align: justify;
+    color:black;
+    margin-left: 100px;
+    padding: 20px;
+}
+.workouts img{
+    border-radius: 50%;
+    margin-top: 50px;
+    padding: 20px;
+}
+.workouts1{
+    display: flex;
+}
+.workouts2{
+    display: flex;
+}
+.workouts3{
+    display: flex;
+}
+.workouts4{
+    display: flex;
+}
+.combine{
+    display: flex;
+}
+.head h1 span{
+    color: rgb(38, 255, 56);
+}
+.workoutsb h3{
+    color: rgb(38, 255, 56);
+}
+.workouts button{
+    background-color:white;
+    color: rgb(38, 255, 56);
+    border: 1px solid rgb(38, 255, 56);
+    padding:10px;
+}
+.help{
+    color: black;
+    display: flex;
+    margin-left:100px;
+}
+.equipment{
+    padding: 25px;
+}
+.instructors{
+    padding: 25px;
+}
+.locations{
+    padding: 25px;
+}
+.courses{
+    padding: 25px;
+}
+.guest{
+    display: flex;
+    margin-left: 100px;
+    padding: 20px;
+}
+.gleft1{  
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLNYpGA_H2DQodcNVydHD0nHNtVc34fTp0VQ&usqp=CAU'); 
+    width: 500px;
+    height:300px; 
+    filter: blur(5px);
+}
+.gright img{ 
+    width: 500px;
+    height: 300px;
+    filter: blur(5px)
+}
+.help img{
+    border: 1px solid black;
+    border-radius:50%;
+    padding: 10px;
+}
+.one{
+    color: green;
+    position: relative; 
+    top: -240px;
+    text-align: justify;
+    margin-left: 80px;
+}
+.start{
+    position: relative;
+    top: -150px;
+}
+.start-img {
+    background-image:  url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYDDsC_42zqjPrNb5ueZd7lPS_0-yd4xH1Uw&usqp=CAU');
+    filter: blur(2px);
+    width: 100%;
+    height: 200px;
+}
+.start-matter{
+    position: relative;
+    color: white;
+    top: -150px;
+}
+span{
+    color: rgb(47, 255, 127);
+}
+.gallery{
+    color: black;
+    top: -150px;
+    position: relative;
+}
+.gallery img{
+    filter: blur(5px);
+}
+.better h1{
+    font-size: 40px;
+    color: black;
+}
+.better{
+    position: relative;
+    top: -100px;
+}
+.jimg{
+    background-image:  url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRF3SPv-MxzOS9ak23n5LWaLLsKCxt3aQjHQ&usqp=CAU');
+    width: 100%;
+    height: 300px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 20px;
+}
+.join{
+    position: relative;
+    top: -250px;
+}
+.ourprograms{
+    position: relative;
+    top: -200px;
+    color:black;
+}
+.ourprograms1{
+    position: relative;
+    top: -200px;
+    display: flex;
+    margin: 0px 150px;
+
+}
+.tright{
+    display: flex;
+    flex-wrap: wrap;
+    margin:0px 0px 0px 0px ;
+
+}
+.tright figure{
+    margin-left: -30px;
+}
+figcaption{ 
+    color: white;
+    font-size:20px;
+    position: relative;
+}
+.decrease{
+    margin-top: -25px;
+}
+.testimoniales{
+    position: relative;
+    top: -200px;
+}
+input{
+    width: 384px; 
+    padding: 10px;
+}
+.appointment{
+    background-color:rgb(38, 255, 56);
+    padding: 10px;
+    display: flex;
+    margin: 20px;
+    color: white;
+}
+.appointment p{
+    padding:0px;
+    margin: 0px 80px;
+}
+.appointment button{
+    padding:10px;
+    width:300px;
+    margin:0px 20px;
+    background-color: rgb(38, 255, 56);
+    border: solid white 1px;
+}
+.contact button{
+    width: 384px;
+    background-color: rgb(38, 255, 56);
+    padding: 10px;
+}
+.test{
+    background-image: url('https://images.unsplash.com/photo-1518135714426-c18f5ffb6f4d?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8c2hha2luZyUyMGhhbmRzfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80' );
+    width: 100%;
+    height: 300px;
+    background-size: cover;
+    filter: blur(10px);
+}
+.matter{
+    position: relative;
+    top: -200px;
+}
+.trainers{
+    position: relative;
+    top: -200px;
+}
+.us{
+    position: relative;
+    top: -200px;
+}
+.appointment{
+    position: relative;
+    top: -200px;
+}
+.pimg{
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLJG0w7d2TYLrIwbBQPJJP_nyq9fluZAE8LY8AeiqnVQu49ee6BLDOAFSFwANS1UScDtI&usqp=CAU');
+    filter:blur(10px);
+    width: 100%;
+    height: 500px;
+    position: relative;
+    top: -150px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.last{ 
+    color: white;
+    position: relative;
+    top: -700px;
+    display: flex;
+    text-align:justify;
+    padding: 20px;
+    margin:80px;
+}
+.open{
+    padding: 5px;
+    margin-left: -180px;
+    margin-right:90px ;
+}
+.contactus{
+    padding: 25px;
+    margin-left: 30px;
+}
+.ourtrainers img{
+    filter: blur(5px);
+    border: 1px solid black;
+}
+.ourprograms1{
+    filter: blur(5px);
+}
+.social-media{
+    padding: 16px 200px;
+    font-size: 20px;
+    text-align: center;
+    margin-left: -210px;
+}
+.social-media li{
+    float: left;
+    border: 1px solid;
+    border-radius: 50%;
+    height: 35px;
+    margin:0px 10px;
+    width: 35px;
+    background-color: black;
+    text-align: center;
+  
+    
+}
+.social-media ul{
+    margin: 5px;
+    padding: 0px;
+    text-align: center;
+    list-style: none;
+
+}
+.social-media ul li i{
+    color: white;
+    margin-top: 5px;
+}
+.copyrights{
+    position: relative;
+    top: -800px; 
+    color: white;
+}
